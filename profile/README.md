@@ -4,7 +4,7 @@ Here you'll find set of useful KickAssembler libraries for native Commodore 64 d
 
 Temporary and incomplete documentation for libraries: https://c64lib.github.io/docu/. This will change soon, I hope.
 
-A backbone build system that I wrote, maintain and use myself is pretty well docummented: https://c64lib.github.io/gradle-retro-assembler-plugin/.
+A backbone build system that I wrote, maintain and use myself is pretty well documented: https://c64lib.github.io/gradle-retro-assembler-plugin/.
 
 There are few examples of using both libs and the tooling on my private space: https://github.com/maciejmalecki/, including:
 * https://github.com/maciejmalecki/bluevessel/ (a sample C64 intro/one file demo, heavy usage of Copper64 library).
