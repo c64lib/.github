@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+Here you'll find set of useful KickAssembler libraries for native Commodore 64 development as well as a few supporting tools.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Temporary and incomplete documentation for libraries: https://c64lib.github.io/docu/. This will change soon, I hope.
